@@ -1,10 +1,9 @@
 ---
-title: Principles of Naturopathy
+title: "Discourse: 01 Principles of Naturopathy"
 author: Raveesh Agarwal
 date: 16 Jan 2025
+description: In this discourse, Dr Vimal Modi speaks about the principle of Naturopathy and origin of diseases.
 ---
-# Discourse 1 - Principles Of Naturopathy
-
 >Nature cure is a simple system. In this, we remedy the bodily functions, not cure diseases.
 
 Nature cure is the only system of healing that emphasises on not getting diseased. It proposes lifestyle changes and techniques that prevent us from getting ill and if a disease knocks, allows us to manage them in a way that it does not get worse.
