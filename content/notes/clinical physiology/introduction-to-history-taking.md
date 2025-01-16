@@ -1,3 +1,8 @@
+---
+title: Introduction to History taking
+author: Raveesh Agarwal
+---
+
 # Introduction to History Taking
 History taking is the art of speaking to the patient and extracting vital information to reach a diagnosis and subsequently, a plan of treatment.
 
