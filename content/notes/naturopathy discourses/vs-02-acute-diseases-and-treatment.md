@@ -1,0 +1,64 @@
+---
+title: Acute Diseases and Their Treatment
+author: Raveesh Agarwal
+date: 16 Jan 2025
+description: In this discourse Dr Vimal Modi speaks about acute diseases and their treatment
+---
+> Diseases are only present where there are toxins.
+
+When waste material can’t exit the body via the 4 designated paths, body finds alternative ways of expulsion. This expulsion creates symptoms that we in common culture call acute diseases.
+Common examples are:
+* Stool -> Lose Motion
+* Mouth -> Vomiting
+* Nose -> Cough n Cold
+* Skin -> Fever, Itching, Rashes, Acne
+Routine mishandling of these acute diseases results in chronic ailments.
+### Treatment
+Treatment of acute diseases is done by observing three rules:
+* Stop Eating
+* Stop Working (Take Rest)
+* Drink Lots of Water
+
+This is as simple as it sounds, and the rest of the discourse was Vimal Sir sharing his experiences on how to help patients observe these rules. I will try to structure this as much as possible:
+### Fasting vs Dieting
+In naturopathy, a fast (`उपवास`) means going without food. One is allowed to have only:
+1. Water
+2. Lemon Water
+3. Lemon Honey Water
+
+Anything outside this, although restricted in its own way, is a Diet (`आहर`).
+### Small Children and Others who Can’t Fast
+Most small children can’t observe a fast. In this case, we should help them observe a diet with as less food as possible. 
+Children need to be fooled into fasting and drinking water by mixing these items in water:
+* Fruit Juices
+* Carrot and Tomato Juices
+* Vegetable Soups
+* Vegetable Juices
+Children find that added taste helps them drink more water and not feel hungry. Solid food outside the list above should be avoided.
+
+> These juices should be given not as food, but as an illusion to make kids fast and drink water.
+
+> इलाज तो उपवास ही है।
+
+There can be other patients that are not in a position to observe a fast. This might be due to feebleness, old age, or other reasons. In all these cases, we should reduce their diet to as little as possible. Partial fasting will lead to longer recovery times, but eating less will still help.
+
+### Water
+Water is easy to feed. 
+Dehydration is the most dangerous possible outcome of an acute condition. It is only in vomiting tendencies that a patient would not want to drink water.
+
+Even in those cases, we should reduce the rate at which we make the patient drink water down to one spoon at a time if needed. We should always make the patient drink water.
+
+> Lose motion, vomiting, fever, cough — Keep drinking water
+
+### Coming out of the Fast Post Disease 
+Coming straight back to the regular diet after a fast is dangerous.
+Once the acute disease is gone, we need to follow a ramp up process:
+
+| Day After Disease | Recommended Diet                       |
+| ----------------- | -------------------------------------- |
+| Day 1             | Juices                                 |
+| Day 2             | Fruits                                 |
+| Day 3             | Half Food: 2x Fruits, 1x Solid Food    |
+| Day 4             | Regular Diet: 2x Fruits, 2x Solid Food |
+
+### Mud Pack and Enema
