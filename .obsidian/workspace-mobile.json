@@ -11,10 +11,14 @@
             "id": "ed798c61b73b36e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/naturopathy discourses/vs-01-principle-of-naturopathy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "vs-01-principle-of-naturopathy"
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/notes/naturopathy discourses/vs-01-principle-of-naturopathy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "content/notes/naturopathy discourses/vs-01-principle-of-naturopathy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +127,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "content/notes/naturopathy discourses/vs-01-principle-of-naturopathy.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -139,12 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a08191fb0f60f0c",
+  "active": "ed798c61b73b36e6",
   "lastOpenFiles": [
+    "content/notes/naturopathy discourses/02-.md",
+    "content/notes/naturopathy discourses/vs-01-principle-of-naturopathy.md",
+    "content/naturopathy discourses/01-introduction-to-naturopathy.md",
+    "content/notes/naturopathy treatments/00-steam-bath.md",
+    "content/notes/clinical physiology/introduction-to-history-taking.md",
+    "content/notes/yoga/introduction-to-yoga.md",
+    "content/notes/naturopathy treatments",
+    "content/notes/clinical physiology",
+    "content/notes/naturopathy discourses",
+    "content/notes/yoga",
+    "content/notes",
     "content/naturopathy treatments/00-steam-bath.md",
     "content/naturopathy treatments",
     "content/clinical physiology/introduction-to-history-taking.md",
-    "content/naturopathy discourses/00-introduction-to-naturopathy.md",
     "content/naturopathy discourses",
     "content/yoga/introduction-to-yoga.md",
     "content/yoga",

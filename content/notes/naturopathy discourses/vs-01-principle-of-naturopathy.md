@@ -1,4 +1,12 @@
-# Introduction to Naturopathy
+---
+title: Principles of Naturopathy
+author: Raveesh Agarwal
+date: 16 Jan 2025
+---
+# Discourse 1 - Principles Of Naturopathy
+
+>Nature cure is a simple system. In this, we remedy the bodily functions, not cure diseases.
+
 Nature cure is the only system of healing in the world that emphasises on not getting diseased. It proposed lifestyle changes and techniques that prevent us from getting ill and if a disease knocks, allows us to manage them in a way that it does not get worse.
 
 The human body is a smart apparatus. If we follow certain rules that are set for it by nature, we will not go ill.
@@ -27,7 +35,7 @@ According to nature cure, we should welcome this expulsion as a part of how our 
 
 Leading our usual life as we get these reactions from our body, we panic and resort to suppressing these reactions with medication or other means. This leads to long term accumulation that takes the form of chronic diseases.
 
-> Insert chronic diseases here
+> These are as mentioned in `रोगों की सरल चिकित्सा`
 
 
 These chronic diseases take longer to recover from. These call for enforcing a diet and set of activities that empower and clean the 4 natural ways of expulsion and keep doing it till all the unwanted matter is out.
@@ -78,5 +86,3 @@ Must sweat at least 1 hour a day in a well oxygenated environment.
 * Walking at a normal pace for 55 minutes followed by 5 minutes of running is enough to lead a healthy life
 * Recovering from something or preparing for something may demand more
 * Pain is the indication to stop
-
-### Empowering the Exhale
