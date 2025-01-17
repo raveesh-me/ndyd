@@ -1,13 +1,17 @@
-# Steam Bath
-
-## Introduction
+---
+title: Naturopathy Treatment - Steam Bath
+author: Raveesh Agarwal
+date: 17 Jan 2025
+description: A detailed discussion on Steam Bath, how to administer, and precautions.
+---
+### Introduction
 Steam Bath is administered to expel unwanted foreign matter from the body by inducing sweating through activation of sweat glands and dilation of skin pores.
 This can be administered as:
 * Local steam bath
 * Whole body steam bath
 This will discuss in detail the whole body steam bath.
 
-## Equipments
+### Equipments
 * Steam Bath Cabinet
 * Kettle
 * Stove
@@ -19,11 +23,11 @@ This will discuss in detail the whole body steam bath.
 * Cold Water
 * Drinking Glass
 
-## Principle
+### Principle
 The primary function of skin is to maintain the temperature of the body. Consistent contact with steam heats the outer surface of the skin. To maintain this change in temperature, sweat glands become active and skin pores get dilated thus inducing sweat. This sweat carries unwanted foreign matter out of the body.
 A cold hip bath after the steam bath pushes the blood towards the internal organs and increases circulation, activating other excretory functions and thus further cleaning the body.
 
-## Method
+### Method
 * Fill the kettle and put it on stove
   700-800ML is enough for one person
 * Attach one end of the rubber pipe to the kettle and other end to the steam cabinet
@@ -39,14 +43,14 @@ A cold hip bath after the steam bath pushes the blood towards the internal organ
 * Once done, instruct the patient to take a cold hip bath
 * In the end, instruct the patient to wipe the body and wear their clothes.
 
-## Duration
+### Duration
 In winters - 15-20 minutes
 In summer - 10-15 minutes
 
 Based on patient endurance, it can vary by 5 minutes up and down
 For children below 12, local steam should be enough.
 
-## Action / Reaction
+### Action / Reaction
 The heat from the steam leads to dilation in the capillaries of the skin. This leads to flow of blood from internal organs to the skin.
 
 Sweat glands become activated to maintain surface temperature and skin pores open up. Sweating increases and this is how external matter gets ejected from the body.
@@ -57,7 +61,7 @@ Blockages in blood vessels go away and metabolism corrects itself. Unwanted matt
 
 It is normal for pulse rate to increase when taking a steam bath.
 
-## Indications
+### Indications
 * Obesity
 * Skin diseases
 * Asthma
@@ -69,7 +73,7 @@ It is normal for pulse rate to increase when taking a steam bath.
 * Gynaecological Conditions
 * Appendicitis Inflammation
 
-## Contra Indications
+### Contra Indications
 * Burns / Bruises / Cuts on the Skin
   Steam has high penetration power. Taking a steam bath in these conditions will aggravate the situation
 * High BP
@@ -82,7 +86,7 @@ It is normal for pulse rate to increase when taking a steam bath.
 * Excessive Weak / Old Patients
 * Pregnancy - DO NOT ADMINISTER in first and last trimester.
   Generally avoid during the rest of the pregnancy
-## Considerations
+### Considerations
 * Do not administer during a fast
 * If required, give enema before steam bath
 * Should be administered either on an empty stomach, or at least after a 3-4 hour gap
