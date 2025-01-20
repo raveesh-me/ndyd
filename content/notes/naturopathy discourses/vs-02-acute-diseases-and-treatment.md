@@ -3,6 +3,7 @@ title: "Discourse: 02 Acute Diseases and Their Treatment"
 author: Raveesh Agarwal
 date: 16 Jan 2025
 description: In this discourse Dr Vimal Modi speaks about acute diseases and their treatment
+category: discourse
 ---
 > Diseases are only present where there are toxins.
 

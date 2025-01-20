@@ -3,6 +3,7 @@ title: Introduction to History taking
 author: Raveesh Agarwal
 date: 17 Jan 2025
 description: An introduction to diagnosis through history taking as taught by Dr Richa Modi Maam
+category: clinical physiology
 ---
 History taking is the art of speaking to the patient and extracting vital information to reach a diagnosis and subsequently, a plan of treatment.
 

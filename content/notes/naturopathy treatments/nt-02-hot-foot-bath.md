@@ -3,6 +3,7 @@ title: Naturopathy Treatment - Hot Foot Bath
 author: Raveesh Agarwal
 date: 17 Jan 2025
 description: A detailed discussion on Hot Foot Bath, how to administer, and precautions.
+category: naturopathy treatment
 ---
 
 > A Hot foot bath is beneficial for all diseased above the legs

@@ -4,6 +4,7 @@ date: 17 Jan 2025
 author: Raveesh Agarwal
 description: A detailed discussion on Abdominal Mud Pack, how to administer, and precautions.
 draft: "false"
+category: naturopathy treatment
 ---
 >Mud has three healing capacities
 >	* Absorption

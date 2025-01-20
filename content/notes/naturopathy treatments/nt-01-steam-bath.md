@@ -3,6 +3,7 @@ title: Naturopathy Treatment - Steam Bath
 author: Raveesh Agarwal
 date: 17 Jan 2025
 description: A detailed discussion on Steam Bath, how to administer, and precautions.
+category: naturopathy treatment
 ---
 ### Introduction
 Steam Bath is administered to expel unwanted foreign matter from the body by inducing sweating through activation of sweat glands and dilation of skin pores.

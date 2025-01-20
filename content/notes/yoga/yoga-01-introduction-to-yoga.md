@@ -3,6 +3,7 @@ title: 01-Introduction to Yoga
 author: Raveesh Agarwal
 date: 17 Jan 2025
 description: A brief Introduction to Yoga
+category: yoga
 ---
 >योगः चित्तवृत्ति निरोधः।
 
