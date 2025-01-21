@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e7ffe7dd9248236",
+        "id": "f5b9ebbd2b473a83",
         "type": "tabs",
         "children": [
           {
-            "id": "468b9fc5acc98500",
+            "id": "4fbef5adcf737dff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/yoga/yoga-01-introduction-to-yoga.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "yoga-01-introduction-to-yoga"
+              "title": "New tab"
             }
           }
         ]
@@ -143,8 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "468b9fc5acc98500",
+  "active": "4fbef5adcf737dff",
   "lastOpenFiles": [
+    "archetypes/default.md",
+    "content/notes/yoga/yoga-01-introduction-to-yoga.md",
     "content/notes/naturopathy treatments/nt-03-abdominal-mud-pack.md",
     "content/notes/naturopathy treatments/nt-02-hot-foot-bath.md",
     "content/notes/naturopathy treatments/nt-01-steam-bath.md",
@@ -154,10 +152,8 @@
     "content/notes/clinical physiology/cp-01-introduction-to-history-taking.md",
     "themes/ananke/layouts/partials/svg/new-window.svg",
     "content/headless/first-section.md",
-    "archetypes/default.md",
     "content/headless",
     "content/notes/anatomy",
-    "content/notes/yoga/yoga-01-introduction-to-yoga.md",
     "content/naturopathy discourses/01-introduction-to-naturopathy.md",
     "content/notes/naturopathy treatments",
     "content/notes/clinical physiology",
