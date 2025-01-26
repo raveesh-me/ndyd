@@ -9,6 +9,7 @@ category: yoga
 
 >योगः कर्मशु कौशलम।
 
+![[Pasted image 20250126115114.png]]
 The literal meaning of Yoga is `to Join`, or `To bring together`.
 Yoga is a process for liberation of self. It is an infallible way to get the mind and body in balance.
 

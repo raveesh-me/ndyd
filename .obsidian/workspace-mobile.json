@@ -11,10 +11,14 @@
             "id": "4fbef5adcf737dff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/yoga/yoga-01-introduction-to-yoga.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "yoga-01-introduction-to-yoga"
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/notes/yoga/yoga-01-introduction-to-yoga.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,6 +146,7 @@
   },
   "active": "4fbef5adcf737dff",
   "lastOpenFiles": [
+    "content/notes/yoga/Pasted image 20250126115114.png",
     "archetypes/default.md",
     "content/notes/yoga/yoga-01-introduction-to-yoga.md",
     "content/notes/naturopathy treatments/nt-03-abdominal-mud-pack.md",
