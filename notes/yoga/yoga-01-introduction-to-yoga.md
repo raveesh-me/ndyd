@@ -13,6 +13,8 @@ category: yoga
 The literal meaning of Yoga is `to Join`, or `To bring together`.
 Yoga is a process for liberation of self. It is an infallible way to get the mind and body in balance.
 
+![[Pasted image 20250130144921.png]]
+
 In today’s upbringing, it is easy for the mind to lead us astray. Our mind, our body and our spirit could be working towards three separate directions. The aim of yoga is to bring these three together in unison.
 
 Yoga was developed in the Indian subcontinent moe than 10000 years ago in the `Tantrik Culture`. Normal people were scared of Yoga and Yogis were usually considered mystics who were out of the reach for common people.

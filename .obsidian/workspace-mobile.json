@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -146,9 +147,10 @@
   },
   "active": "4fbef5adcf737dff",
   "lastOpenFiles": [
+    "content/notes/yoga/Pasted image 20250130144921.png",
+    "content/notes/yoga/yoga-01-introduction-to-yoga.md",
     "content/notes/yoga/Pasted image 20250126115114.png",
     "archetypes/default.md",
-    "content/notes/yoga/yoga-01-introduction-to-yoga.md",
     "content/notes/naturopathy treatments/nt-03-abdominal-mud-pack.md",
     "content/notes/naturopathy treatments/nt-02-hot-foot-bath.md",
     "content/notes/naturopathy treatments/nt-01-steam-bath.md",
